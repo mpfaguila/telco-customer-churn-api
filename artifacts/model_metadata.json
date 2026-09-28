@@ -1,0 +1,16 @@
+{
+  "model_name": "XGBoost",
+  "model_version": "1.0",
+  "cutoff": 0.22620753943920135,
+  "train_oof_ks": 0.5667253573763232,
+  "test_auc": 0.8565591981193004,
+  "records": 7043,
+  "features": 19,
+  "hyperparameters": {
+    "n_estimators": 120,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "subsample": 0.9,
+    "colsample_bytree": 0.9
+  }
+}
